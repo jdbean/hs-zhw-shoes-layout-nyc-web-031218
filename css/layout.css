@@ -35,11 +35,8 @@
 }
 
 .col-right {
-
-}
-
-.col-left-center {
-  width: 66.66%;
+  float: left;
+  width: 33.33%;
 }
 
 [class*="col-"] {
