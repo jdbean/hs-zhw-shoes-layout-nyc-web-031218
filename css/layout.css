@@ -26,22 +26,22 @@
 
 .col-left {
   float: left;
-  width: 33.33%;
+  width: 30%;
 }
 
 .col-center {
   float: left;
-  width: 33.33%;
+  width: 30%;
 }
 
 .col-right {
   float: left;
-  width: 20%;
+  width: 30%;
 }
 
 .col-left-center {
   float: left;
-  width: 66.66%;
+  width: 60%;
 }
 
 [class*="col-"] {
